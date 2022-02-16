@@ -21,7 +21,7 @@
     
     
     
-    Entre em contato, Tire todas as suas dúvidas ou envie mensagens.
+    Entre em contato e tire todas as suas dúvidas.
     
   <a href="https://www.instagram.com/invites/contact/?i=pm5eu4qjgugm&utm_content=i6gda77" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:faelaferreira4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
